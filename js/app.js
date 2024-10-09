@@ -17,7 +17,7 @@ function testString(texto) {
 function testObject() {
   try {
     return {
-      name: "user test",
+      name: "user test1",
       age: 18,
       email: "usertest@gmail.com",
     };
